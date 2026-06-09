@@ -1,2 +1,0 @@
-# Simulateur-POPAM
-Simulateur POPAM
